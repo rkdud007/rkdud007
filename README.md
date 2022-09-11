@@ -22,7 +22,7 @@
 ## My works
 
 - ETH Seoul Hackaton. Played Project Lead & Front End on the team and our team won 1st prize in Privacy Track & Polygon Track. (2022.08)
-- BlockChain Valley ( KU blockchain club ) Co-Founder ( 2022.12 ~ 2022.05 )
+- BlockChain Valley ( KU blockchain club ) Co-Founder ( 2021.12 ~ 2022.05 )
 - CryptoHows ( Top VC based Crypto Project Dashboard Project) FrontEnd Engineer ( 2022.03 ~ 2022.05 ) 
     
 
