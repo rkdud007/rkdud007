@@ -10,8 +10,6 @@
 ## I'm Pia ( Gayeong Park ) ([rkdud007]) 👨🏻‍💻
     
 - Junior @ Korea University Dept. of Computer Science & Engineering 
-
-- Planetarium ( Blockchain base Gaming Company, Defi ) Backend Software Engineer ( 2022.09 ~ present )
  
 - OnePlanet NFT (Polygon Base NFT Market Place) Software Intern (2022.01 ~ 2022.03)
 
