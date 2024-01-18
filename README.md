@@ -8,5 +8,5 @@
 
 Hello, I’m Pia.
 
-If you are interested in who I am, check out my website : https://www.piapark.me/
-You can contact me through twitter : https://twitter.com/home
+- If you are interested in who I am, check out my website : https://www.piapark.me/
+- You can contact me through twitter : https://twitter.com/home
